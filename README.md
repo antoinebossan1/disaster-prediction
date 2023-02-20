@@ -1,5 +1,5 @@
 # Natural Disasters
-This project uses an LSTM model for natural language processing to predict whether a tweet is about a natural disaster. The model is trained on a dataset of labeled tweets from the Real or Not? NLP with Disaster Tweets Kaggle competition.
+This project uses an LSTM model for natural language processing to predict whether a tweet is about a natural disaster. The model is trained on a dataset of labeled tweets from  NLP with Disaster Tweets Kaggle competition.
 
 # Requirements
 This project requires Python 3.7 or later, as well as several Python libraries, including:
